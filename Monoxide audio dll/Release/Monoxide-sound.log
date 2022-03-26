@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  audio.c
+c:\users\owner\デスクトップ\monoxide c#\monoxide audio dll\audio.c(81): warning C4098: 'AllAudioStart': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+     ライブラリ C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\DLL\audio.lib とオブジェクト C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\DLL\audio.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  1 of 32 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Monoxide-sound.vcxproj -> C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\DLL\audio.dll
+  Monoxide-sound.vcxproj -> C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\DLL\audio.pdb (Full PDB)
