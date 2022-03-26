@@ -1,0 +1,5 @@
+C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\bin\Release\Monoxide.exe
+C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\obj\Release\Monoxide.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\obj\Release\Monoxide.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\Monoxide C#\Release\MonoxideTool.exe
+C:\Users\Owner\デスクトップ\Monoxide C#\Monoxide\obj\Release\MonoxideTool.exe
